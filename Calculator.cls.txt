@@ -1,7 +1,7 @@
-class Calculator
+class DemoHello
 {
-public static void main(String args[])
-{
-System.out.prinln("Hello");
-}
+  public static void main(String args[])
+  {
+      System.out.prinln("Hello");
+  }
 }

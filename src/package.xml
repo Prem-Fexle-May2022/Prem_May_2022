@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>Expression</members>
+        <members>OperatorPrecedenceApex</members>
+        <name>ApexClass</name>
         <members>DataTypesMethodsClass</members>
         <members>ListClass</members>
         <members>MapCollection</members>
@@ -12,6 +15,7 @@
         <members>LeftTrianglePattern</members>
         <members>MyHelloWorld</members>
 	      <members>DownTrianglePattern1</members>
+        <members>NumberPattern</members>
         <members>NumberPattern</members
         <name>ApexClass</name>
     </types>

@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
+        <members>DataTypesMethodsClass</members>
+        <members>ListClass</members>
+        <members>MapCollection</members>
+        <members>SetClass</members
         <members>StudentController</members>
         <members>StudentController1</members>
         <members>StudentQueryRecord</members>
-		<members>HelloWorldTestClass</members>
+	    	<members>HelloWorldTestClass</members>
         <members>LeftTrianglePattern</members>
         <members>MyHelloWorld</members>
-	    <members>DownTrianglePattern1</members>
-        <members>NumberPattern</members>
+	      <members>DownTrianglePattern1</members>
+        <members>NumberPattern</members
         <name>ApexClass</name>
     </types>
     <types>
@@ -57,11 +61,11 @@
         <members>Subject__c</members>
         <members>Teacher__c</members>
         <members>Year_Of_Class__c</members>
-	    <members>Book__c</members>
+	      <members>Book__c</members>
         <name>CustomObject</name>
     </types>
     <types>
-		  <members>College__c</members>
+		    <members>College__c</members>
         <members>Employee__c</members>
         <members>Pan_Card__c</members>
         <members>StudentSubject__c</members>
@@ -69,7 +73,7 @@
         <members>Subject__c</members>
         <members>Teacher__c</members>
         <members>Year_Of_Class__c</members>
-	    <members>Book__c</members>
+	      <members>Book__c</members>
         <name>CustomTab</name>
     </types>
     <types>

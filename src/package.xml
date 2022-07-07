@@ -25,6 +25,13 @@
         <members>Overloading</members>
         <members>SuperClass</members>
         <members>NumberPattern</members
+		<members>CustomerPurchaseOrder</members>
+        <members>EmployeePurchaseOrder</members>
+        <members>ProcessPurchaseOrder</members>
+        <members>PurchaseOrder</members>
+        <members>Subclass</members>
+        <members>SuperKeywordClass</members>
+        <members>ThisKeywordClass</members>
         <name>ApexClass</name>
     </types>
     <types>

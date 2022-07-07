@@ -16,6 +16,7 @@ public with sharing class DemoClass1 {
         public void Show()
         {
             System.Debug('sum is = '+d);
+            System.Debug('Thanx');
         }
         
         
